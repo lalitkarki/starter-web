@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+lalit karki lalit.karki@gmail.com
 # THANKS
 
     <name>
