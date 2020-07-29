@@ -11,3 +11,4 @@ All my students
 
     HTML5, CSS3
     jQuery, Modernizr
+    Git
